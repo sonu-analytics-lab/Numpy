@@ -1,0 +1,32 @@
+Numpy
+
+Timestamps:
+0:00-03:06 Introduction to course
+03:00-30:50 Numpy basics 
+30:50-57:14 Array Properties & Operations
+57:14-1:09:34 Indexing & Slicing Arrays
+1:09:34-1:16:44 Reshaping & Manipulation
+1:16:44-1:36:00 Array Modification
+1:36:00-1:55:00 Broadcasting & Vectorisation
+1:55:00-2:06:00 Handling Missing Values
+2:06:00-2:25:00 Capstone Projects
+
+
+>   Fast numerical computations (Less memory)
+>   working with arrays (better than Python lists)
+>   maths, statistics linear algebra
+>   foundation for pandas ML AI
+
+data science, ML/AI, stock Markets, medical,  image processing
+
+------------------------------
+lists           Numpy arrays
+------------------------------
+slow            Fast50 to 100 X
+Large memory    less memory
+cal loops       cal easy
+
+
+
+
+
